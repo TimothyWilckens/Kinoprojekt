@@ -24,5 +24,6 @@ public class App {
         
 
         System.out.println(veranstaltung1.getReserviertePlaetze());
+        System.out.println("Hiii");
     }
 }
